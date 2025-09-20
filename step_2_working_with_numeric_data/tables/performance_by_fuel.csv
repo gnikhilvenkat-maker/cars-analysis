@@ -1,0 +1,23 @@
+Fuel_Type_clean,Performance_clean
+Diesel,11.530392156862744
+Electric,5.912765957446808
+Hybrid,6.871794871794871
+Petrol,7.277367205542725
+cng/petrol,12.0
+diesel hybrid,
+diesel/petrol,14.125
+gas / hybrid,
+hybrid (gas + electric),7.6
+hybrid (petrol),3.9000000000000004
+hybrid / plug-in,
+hybrid/electric,8.5
+hybrid/petrol,
+hydrogen,8.666666666666666
+petrol (hybrid),
+"petrol, diesel",8.566666666666668
+"petrol, hybrid",8.95
+petrol/awd,7.4
+petrol/diesel,9.423076923076923
+petrol/ev,
+petrol/hybrid,8.375
+plug-in hybrid,7.640000000000001
